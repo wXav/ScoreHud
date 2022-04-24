@@ -1,0 +1,12 @@
+{
+  "name": "abstract/scorehud",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "abstract",
+      "email": "contact@xavierr.tech"
+    }
+  ]
+}
